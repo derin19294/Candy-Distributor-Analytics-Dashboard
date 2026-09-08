@@ -15,7 +15,6 @@ This repository contains a Power BI (.pbix) file and CSV dataset for candy distr
 3. Open `dashboard.pbix` in Power BI Desktop.
 4. Click **Refresh** to reload the data from the CSV files.
 
-##Copyright
 ## 📌 Copyright & Data Attribution
 
 © 2026 Derin Periyana. All rights reserved.
