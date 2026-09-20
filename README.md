@@ -5,8 +5,8 @@ This repository contains a Power BI (.pbix) file and CSV dataset for candy distr
 ## Folder Structure
 
 📂 `data` → contains the source CSV files were obtained from **Maven Analytics**
-📄 `dashboard.pbix` → main Power BI dashboard file
 📄 `Build portofolio candy distributor` → steps documentation to build candy distributor analytics dashboard
+📄 `dashboard.pbix` → main Power BI dashboard file
 📄 `README.md` 
 
 ## How to Use
